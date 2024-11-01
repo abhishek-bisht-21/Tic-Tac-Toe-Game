@@ -10,3 +10,17 @@
 .turn-highlight {
 	color: white;
 }
+
+.reset { 
+	color: white;
+	background-color: var(--resetGreen);
+	padding: 1rem;
+	cursor: pointer;
+	border-radius: 10px;
+	border: none;
+	width: 100%;
+}
+
+.grid-wrapper {
+	max-width: 300px;
+}
