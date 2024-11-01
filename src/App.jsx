@@ -1,11 +1,10 @@
 import { useState } from 'react'
-import Icon from './components/Icon/Icon'
-import './App.css'
-import Card from './components/card/Card'
 import Grid from './components/Grid/Grid'
 
+import './App.css'
+
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
